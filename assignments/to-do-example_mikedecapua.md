@@ -8,7 +8,7 @@ GET users
 
 ### cURL command
 
-```shell
+```json
 curl http://localhost:3000/users
 
 ```
