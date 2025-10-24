@@ -1,6 +1,6 @@
 # To-Do Service API
 
-**Manage cloud-hosted task lists with a simple REST interface**
+## Manage cloud-hosted task lists with a simple REST interface
 
 The To-Do Service API lets you create tasks, set due dates, and automate reminders through straightforward HTTP requests. Whether you're building a productivity app, integrating task management into your workflow, or learning API development, this service provides the tools you need.
 
@@ -24,20 +24,21 @@ New to the To-Do Service? Start here:
 
 Follow these hands-on tutorials to master common workflows:
 
-* [Enroll a new user](tutorials/enroll-a-new-user.md)
-* [Add a new task](tutorials/add-a-new-task.md)
-* [Change the due-date of a task _(coming soon)_](#tutorials)
-* [Delete a task _(coming soon)_](#tutorials)
+- [Enroll a new user](tutorials/enroll-a-new-user.md)
+- [Add a new task](tutorials/add-a-new-task.md)
+- [Change the due-date of a task _(coming soon)_](#tutorials)
+- [Delete a task _(coming soon)_](#tutorials)
 
 ## API reference docs
 
 Explore detailed documentation for each resource:
 
-* [User resource](api/user.md)
-* [Task resource](api/task.md)
+- [User resource](api/user.md)
+- [Task resource](api/task.md)
 
 Base URL: When testing locally, the API runs at `http://localhost:3000`.
 
 Note: The API reference docs refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service.
+[EOF]
