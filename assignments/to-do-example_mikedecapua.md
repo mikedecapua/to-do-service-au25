@@ -59,7 +59,7 @@ http://localhost:3000/tasks
 
 ### Postman response
 
-```shell
+```json
 [
     {
         "userId": 1,
