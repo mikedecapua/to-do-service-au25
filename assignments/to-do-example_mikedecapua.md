@@ -15,7 +15,7 @@ curl http://localhost:3000/users
 
 ### cURL response
 
-```shell
+```json
 [
   {
     "lastName": "Smith",
