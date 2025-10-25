@@ -8,14 +8,14 @@ GET users
 
 ### cURL command
 
-```shell
+```json
 curl http://localhost:3000/users
 
 ```
 
 ### cURL response
 
-```shell
+```json
 [
   {
     "lastName": "Smith",
@@ -59,7 +59,7 @@ http://localhost:3000/tasks
 
 ### Postman response
 
-```shell
+```json
 [
     {
         "userId": 1,
