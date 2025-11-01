@@ -14,7 +14,7 @@
 
 ### cURL response
 
-```shell
+```json
 [
   {
     "Breed": "Persian",
