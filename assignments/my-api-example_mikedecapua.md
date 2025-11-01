@@ -1,52 +1,31 @@
-# Code examples
+# Markdown for Technical Writers
 
-**Author:** \Mike DeCapua>
+## About
+**Markdown** is a *lightweight markup language* that you can use to add formatting elements to plaintext text documents. 
 
-## cURL example
+| Advantages | Limitations |
+|------------| ------------|
+| It's easy to learn. | Different flavors on Markdown can cause inconsistencies. |
+| It's simple to use. | Complex layouts can cause confusion. |
 
-\<replace with a description of the example\>
+## Features
+- Headers
 
-### cURL command
+  ` # Heading 1 `
+ 
+  ` ## Heading 2 `
 
-```shell
- curl http://localhost:3000/cats
-```
+- Links
 
-### cURL response
+  ` [title](https://www.example.com) `
 
-```json
-[
-  {
-    "Breed": "Persian",
-    "Hunts": "indoors",
-    "Hair": "long",
-    "Color": "white",
-    "id": 1
-  }
-]
+- Code blocks
+  
+  ` Sample code block `
 
-```
+## Advice
 
-## Postman example
+1. Establish a clear Style Guide prior to initiating documentation practice.
+2. Use a linter like Vale.
 
-\<replace with a description of the example\>
-
-### Request
-
-**Method**:
-
-```shell
-GET http://localhost:3000/dogs/1
-```
-
-### Postman response
-
-```json
-{
-    "Breed": "Labrador",
-    "Color": "black",
-    "Hair": "short",
-    "Roams": "outside",
-    "id": 1
-}
-```
+See [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for more information.
