@@ -14,7 +14,7 @@
 
 ### cURL response
 
-```shell
+```json
 [
   {
     "Breed": "Persian",
@@ -41,7 +41,7 @@ GET http://localhost:3000/dogs/1
 
 ### Postman response
 
-```shell
+```json
 {
     "Breed": "Labrador",
     "Color": "black",
