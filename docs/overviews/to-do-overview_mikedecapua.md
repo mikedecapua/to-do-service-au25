@@ -45,4 +45,3 @@ Base URL: When testing locally, the API runs at `http://localhost:3000`.
 Note: The API reference docs refer to a `{base_url}` when they
 refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service.
-[EOF]
