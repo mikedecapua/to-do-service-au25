@@ -7,7 +7,8 @@ through straightforward HTTP requests.
 Whether you're building a productivity app, integrating task management into your workflow,
 or learning API development, this service provides the tools you need.
 
-This mock API simulates a production-ready service, making it ideal for learning API integration, testing client applications, or exploring REST principles.
+This mock API simulates a production-ready service, making it ideal for learning API integration,
+testing client applications, or exploring REST principles.
 
 ## What you can do
 
