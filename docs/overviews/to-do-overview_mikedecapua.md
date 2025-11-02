@@ -2,7 +2,10 @@
 
 ## Manage cloud-hosted task lists with a simple REST interface
 
-The To-Do Service API lets you create tasks, set due dates, and automate reminders through straightforward HTTP requests. Whether you're building a productivity app, integrating task management into your workflow, or learning API development, this service provides the tools you need.
+The To-Do Service API lets you create tasks, set due dates, and automate reminders
+through straightforward HTTP requests.
+Whether you're building a productivity app, integrating task management into your workflow,
+or learning API development, this service provides the tools you need.
 
 This mock API simulates a production-ready service, making it ideal for learning API integration, testing client applications, or exploring REST principles.
 
